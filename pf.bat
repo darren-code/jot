@@ -1,0 +1,1 @@
+cls && "./vendor/bin/phpunit" --filter 
